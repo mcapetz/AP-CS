@@ -7,4 +7,4 @@ Subkiller: Implements inheritance, abstraction, interfaces, and GUI (Graphical U
 
 LinkedLists: Implements data structures and algorithms. 
 
-Yahtzee: Implements object-oriented programming and fundamentals of computer programming.
+Yahtzee and GinRummy: Projects based off classic card games. Implements object-oriented programming and fundamentals of computer programming.
